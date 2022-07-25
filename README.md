@@ -32,6 +32,6 @@ THEN I find a concise, descriptive title
 <img src="images/_Users_ashleybostrom_Documents_Coding_working-files_git-init-sample_index.html (1).png"/>
 
 ## Live link to our website
-<a href=">
+[HORISEON](https://ashleybostrom.github.io/git-init-sample/)
 
 
